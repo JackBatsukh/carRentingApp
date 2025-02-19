@@ -1,12 +1,12 @@
-import React from 'react';
-import { View, Text } from 'react-native';
+import React from "react";
+import { View, Text } from "react-native";
 
 const GetStarted = () => {
-    return (
+  return (
     <View>
-<Text>ebujgfuba</Text>
+      <Text>This is test</Text>
     </View>
-    );
-}
+  );
+};
 
 export default GetStarted;
